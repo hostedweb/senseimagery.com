@@ -1,0 +1,9 @@
+# Site settings
+title: sense imagery
+description: A video and motion graphics studio
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
