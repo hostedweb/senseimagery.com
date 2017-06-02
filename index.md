@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Sense is a video and motion graphics studio based out of Colombo, Sri Lanka. 
+## Sense is a video and motion graphics studio based out of Colombo. 
 
 [about](/about) //// [facebook](https://www.facebook.com/senseimagery/) //// [instagram](https://www.instagram.com/senseimagery/)
 
